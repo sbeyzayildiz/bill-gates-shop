@@ -1,0 +1,142 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "name": "npm i json-server",
+            "price": 2,
+            "title": "Big Mac"
+        },
+        {
+            "id": 2,
+            "name": "flip-flops",
+            "price": 3,
+            "title": "Flip Flops"
+        },
+        {
+            "id": 3,
+            "name": "coca-cola-pack",
+            "price": 5,
+            "title": "Coca-Cola Pack"
+        },
+        {
+            "id": 4,
+            "name": "movie-ticket",
+            "price": 12,
+            "title": "Movie Ticket"
+        },
+        {
+            "id": 5,
+            "name": "book",
+            "price": 15,
+            "title": "Book"
+        },
+        {
+            "id": 6,
+            "name": "lobster-dinner",
+            "price": 45,
+            "title": "Lobster Dinner"
+        },
+        {
+            "id": 7,
+            "name": "video-game",
+            "price": 60,
+            "title": "Video Game"
+        },
+        {
+            "id": 8,
+            "name": "amazon-echo",
+            "price": 99,
+            "title": "Amazon Echo"
+        },
+        {
+            "id": 9,
+            "name": "year-of-netflix",
+            "price": 100,
+            "title": "Year of Netflix"
+        },
+        {
+            "id": 10,
+            "name": "air-jordans",
+            "price": 125,
+            "title": "Air Jordans"
+        },
+        {
+            "id": 11,
+            "name": "airpods",
+            "price": 199,
+            "title": "Airpods"
+        },
+        {
+            "id": 12,
+            "name": "gaming-console",
+            "price": 299,
+            "title": "Gaming Console"
+        },
+        {
+            "id": 13,
+            "name": "drone",
+            "price": 350,
+            "title": "Drone"
+        },
+        {
+            "id": 14,
+            "name": "smartphone",
+            "price": 699,
+            "title": "Smartphone"
+        },
+        {
+            "id": 15,
+            "name": "bike",
+            "price": 800,
+            "title": "Bike"
+        },
+        {
+            "id": 16,
+            "name": "kitten",
+            "price": 1500,
+            "title": "Kitten"
+        },
+        {
+            "id": 17,
+            "name": "puppy",
+            "price": 1500,
+            "title": "Puppy"
+        },
+        {
+            "id": 18,
+            "name": "auto-rickshaw",
+            "price": 2300,
+            "title": "Auto Rickshaw"
+        },
+        {
+            "id": 19,
+            "name": "horse",
+            "price": 2500,
+            "title": "Horse"
+        },
+        {
+            "id": 20,
+            "name": "acre-of-farmland",
+            "price": 3000,
+            "title": "Acre of Farmland"
+        },
+        {
+            "id": 21,
+            "name": "designer-handbag",
+            "price": 5500,
+            "title": "Designer Handbag"
+        },
+        {
+            "id": 22,
+            "name": "hot-tub",
+            "price": 6000,
+            "title": "Hot Tub"
+        },
+        {
+            "id": 23,
+            "name": "luxury-wine",
+            "price": 7000,
+            "title": "Luxury Wine"
+        }
+    ]
+}
